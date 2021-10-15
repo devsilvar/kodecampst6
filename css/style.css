@@ -1,0 +1,57 @@
+body{
+    background-color: whitesmoke;
+}
+
+.hero-bg{
+    background-image: url(../img/avengers.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.hero-card{
+    background-color: white;
+    opacity: 0.7;
+    width: fit-content;
+}
+
+.fs-extra{
+    font-size:4.0rem;
+}
+
+.hawkeye{
+    background-image: url(../img/haweyehalf.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:100%;
+    margin:0 auto;
+}
+
+.avenger-body{
+    opacity: 0.77;
+    background-color: white;
+    box-shadow: teal;
+
+}
+
+.avengers-hero{
+    background-image: url(../img/avengersend.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:100%;
+    height:auto;
+}
+
+.red{
+    background-color:rgb(211, 202, 211);
+ opacity: 0.7;
+ z-index: 0;
+}
+
+.inside h2{
+    z-index: 1000000;
+    color:black;
+    opacity: 1000;
+}
+
